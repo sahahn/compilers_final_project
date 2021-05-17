@@ -1,0 +1,3 @@
+let f = let x = 5
+in dynam y: Integer -> x+y
+in f(5)

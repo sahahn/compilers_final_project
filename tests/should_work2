@@ -1,0 +1,3 @@
+let x = 1 in
+let f = dynam y: Integer -> x + let q = 6 in q + y
+in f(6)
